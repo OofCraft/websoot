@@ -1,0 +1,35 @@
+.heads{
+    display: flex;
+    background-color: black;
+    color: whitesmoke;
+    justify-content: center;
+    white-space:normal;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.mod-links{
+    display: flex;
+    background-color: black;
+    color: whitesmoke;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+a{
+    color: inherit;
+}
+body{
+    background-color: slategray;
+}
+.eye{
+    display: flex;
+    justify-content: center;
+}
+.grid{
+    display: flex;
+    justify-content: center;
+    color:turquoise;
+}
+.item{
+    border: solid;
+    border-radius: 10px;
+}
